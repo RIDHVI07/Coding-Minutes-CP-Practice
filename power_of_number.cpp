@@ -1,4 +1,5 @@
 //to find the exponential without using the pow function using the binary exponential
+//time complexity is  O(log b)
 
 #include<bits/stdc++.h>
 
