@@ -25,5 +25,5 @@ int main()
 
     cin>>a>>b;
 
-    power_num(a,b);
+    power_num(2,19);
 }
